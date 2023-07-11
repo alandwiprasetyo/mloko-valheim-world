@@ -1,4 +1,4 @@
-cd C:\Users\Watermelon\AppData\LocalLow\IronGate\Valheim\worlds_local
-set HOME=%USERPROFILE%
+cd %UserProfile%
+cd AppData\LocalLow\IronGate\Valheim\worlds_local
 git pull 
 pause
