@@ -1,5 +1,5 @@
-cd C:\Users\Watermelon\AppData\LocalLow\IronGate\Valheim\worlds_local
-set HOME=%USERPROFILE%
+cd %UserProfile%
+cd AppData\LocalLow\IronGate\Valheim\worlds_local
 git add .
 git commit -m "update database"
 git push -u origin master
